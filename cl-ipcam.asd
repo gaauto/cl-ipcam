@@ -4,7 +4,7 @@
   :serial t
   :description "Describe cl-ipcam here"
   :author "Your Name <your.name@example.com>"
-  :license "Specify license here"
+  :license "MIT"
   :depends-on (#:usocket)
   :components ((:file "package")
                (:file "cl-ipcam")))
